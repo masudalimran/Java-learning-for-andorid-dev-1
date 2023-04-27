@@ -5,5 +5,6 @@ public class Main {
         p.setFirstName("Masud");
         p.setLastName("Al Imran");
         System.out.println(p.toString());
+        System.out.println("yay");
     }
 }
