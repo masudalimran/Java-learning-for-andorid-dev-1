@@ -33,7 +33,7 @@ public class Main {
             System.out.println(person.getPersonInfo());
         }
 
-//        System.out.println("------------------------------------------\nSearch Result");
+        System.out.println("------------------------------------------\nSearch Result");
         System.out.println(findResult);
 
     }
